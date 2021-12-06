@@ -1,0 +1,2 @@
+# IdleClicker
+Idle Clicker game
